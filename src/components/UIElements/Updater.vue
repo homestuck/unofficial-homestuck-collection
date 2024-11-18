@@ -17,7 +17,7 @@ export default {
   props: [],
   data: function() {
     return {
-      ghOwner: 'homestuck-independent-creative-union',
+      ghOwner: 'homestuck',
       ghRepo: 'unofficial-homestuck-collection',
       ghReleasesRaw: undefined,
       dismissed: false
