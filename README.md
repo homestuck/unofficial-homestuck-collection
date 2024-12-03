@@ -49,8 +49,9 @@ See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program.  
 If not, see https://www.gnu.org/licenses/.
 
-Portions of this program may contain material subject to copyright and not subject to the GNU General Public License, 
-including the copyrights associated with the properties owned and distributed by Homestuck, Inc. and Andrew Hussie.
+Portions of this program may contain material subject to copyright and not subject to the 
+GNU General Public License, including the copyrights associated with the properties owned 
+and distributed by Homestuck, Inc. and Andrew Hussie.
 </pre>
 
 In (non legally-binding) summary, you may freely use and distribute the software, as well as modify it and distribute your changes and modified versions, so long as you do not restrict the rights of others to do the same. You must clearly notate any changes and provide links to the unmodified original, and not remove credits (which are part of the original copyright). The Homestuck webcomic and associated copyrights are not subject to the rights granted under this license, and may be subject to takedown, enforcement, or modification by Homestuck, Inc.
