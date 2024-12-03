@@ -14,9 +14,9 @@
   "engines": {
     "node": "18.20"
   },
-  "version": "2.5.7-beta.1",
+  "version": "2.5.7-beta.2",
   "license": "GPL-3.0",
-  "repository": "github:Bambosh/unofficial-homestuck-collection",
+  "repository": "github:homestuck/unofficial-homestuck-collection",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
