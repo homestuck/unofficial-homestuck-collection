@@ -2,7 +2,7 @@
 
 The *Unofficial Homestuck Collection* is a fan-created Browser for reading the webcomic *Homestuck* and other works by Andrew Hussie as they were originally intended to be experienced with Flash integration along with a number of other features. The unofficial Homestuck collection must be paired with an external "Asset Pack" to function that can be downloaded [here](https://cdn.beyondcanon.com/uhc/assets.zip).
 
-This repository is a fork of the original [Unofficial Homestuck Collection](https://github.com/GiovanH/unofficial-homestuck-collection) that is maintained and operated by the *Homestuck Independent Creative Union* to ensure its preservation and continued availability while a new "Official" Homestuck Collection is in development. Any future 'official' support or updates to the UHC will be made here.
+This repository is a fork of the original [Unofficial Homestuck Collection](https://github.com/GiovanH/unofficial-homestuck-collection) that is maintained and operated by *Homestuck, Inc.* to ensure its preservation and continued availability while a new "Official" Homestuck Collection is in development. Any future 'official' support or updates to the UHC will be made here.
 
 ## About the Codebase
 
