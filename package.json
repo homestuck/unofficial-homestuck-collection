@@ -44,7 +44,7 @@
     "encoding": "^0.1.12",
     "flexsearch": "^0.6.32",
     "gif-frames": "^1.0.1",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.15.1",
     "luxon": "^3.4.4",
     "mark.js": "^8.11.1",
     "mnemonist": "^0.39.5",
